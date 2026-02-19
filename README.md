@@ -1,5 +1,5 @@
-# Reference-Books-for-ML
-### This is several reference books for ML that I think are useful for learning mathematically basic of this field.
+## Reference Books for Machine Learning
+### This is several reference books for ML that me(2022-2023) thought were useful for learning mathematically basic of this field.
 
 These text books are from  
                           ・[CS229: Machine Learning - The Summer Edition!](https://cs229.stanford.edu/syllabus-summer2019.html)  
